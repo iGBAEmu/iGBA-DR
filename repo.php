@@ -1,7 +1,7 @@
 <?php
 /*
 iGBA Dynamic Repository (iGBA-DR)
-Unoffical.
+Unofficial.
 
 SETUP:
 1. Create a MySQL user, database, and table. Add the details in the 'database information' section.
